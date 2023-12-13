@@ -1,6 +1,4 @@
-# hello
 
-<h2> Hi I am Ijlal </h2>
 
 learning girhub for first time
 
