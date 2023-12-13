@@ -1,0 +1,13 @@
+# hello
+learning girhub for first time
+
+![Image of Yaktocat](https://www.multcloud.com/screenshot/en/others/google-photos(1).png)
+
+
+```
+this is python code
+print("hello world")
+```
+
+- [x] Inter from GCU Lahore
+- [ ] Doing BSCS from UET LAHORE
